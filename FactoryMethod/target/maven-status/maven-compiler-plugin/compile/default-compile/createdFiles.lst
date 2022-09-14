@@ -1,0 +1,6 @@
+factory\Fox.class
+factory\ListaCarros.class
+com\mycompany\cliente\UsaFactory.class
+factory\Carro.class
+factory\Jetta.class
+factory\Fabrica.class
