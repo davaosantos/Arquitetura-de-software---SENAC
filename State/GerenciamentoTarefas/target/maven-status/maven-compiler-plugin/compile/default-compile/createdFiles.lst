@@ -1,0 +1,6 @@
+com\mycompany\gerenciamentotarefas\UsaGerenciamentoTarefas.class
+pattern\Pendente.class
+pattern\Atrasada.class
+pattern\Concluida.class
+pattern\Context.class
+pattern\State.class
